@@ -1,4 +1,4 @@
-# ERP-Specific AI Add-On LinkedIn Content Library
+# ERP-Specific AI Add-On 
 
 A collection of ERP-specific LinkedIn content packages designed to introduce AI add-on solutions to enterprise ERP communities - respecting each platform's native architecture, terminology, and extensibility model.
 
@@ -10,9 +10,9 @@ Each package includes: real enterprise challenges, native platform limitations, 
 
 | ERP Platform | Description | Document |
 |---|---|---|
-| **Oracle Fusion Cloud ERP** | Covers FBDI/HDL pre-load validation, semantic duplicate invoice detection, and vendor document intelligence — positioned around Fusion's REST APIs, FBDI/HDL, and Business Events. | [Oracle_Fusion.md](./Oracle_Fusion.md) |
+| **Oracle Fusion Cloud ERP** | Covers FBDI/HDL pre-load validation, semantic duplicate invoice detection, and vendor document intelligence - positioned around Fusion's REST APIs, FBDI/HDL, and Business Events. | [Oracle_Fusion.md](./Oracle_Fusion.md) |
 | **SAP S/4HANA** | Covers LTMC/LSMW migration validation, MIRO invoice exception handling, and vendor document intake — framed around SAP's "clean core" principle, BTP side-by-side extensibility, BAPIs, IDocs, and OData. | [SAP_S4HANA.md](./SAP_S4HANA.md) |
-| **Microsoft Dynamics 365 Finance & Supply Chain** | Covers Data Management Framework (DMF) import validation, cross-entity duplicate invoice detection, and vendor onboarding documents — built around OData, DMF, Business Events, and the Power Platform. | [Dynamics365.md](./Dynamics365.md) |
+| **Microsoft Dynamics 365 Finance & Supply Chain** | Covers Data Management Framework (DMF) import validation, cross-entity duplicate invoice detection, and vendor onboarding documents - built around OData, DMF, Business Events, and the Power Platform. | [Dynamics365.md](./Dynamics365.md) |
 | **Workday Financial Management** | Covers EIB pre-load validation, Spend Management duplicate invoice detection, and supplier document intake — integrated through Workday REST/SOAP APIs, EIB, and Workday Extend. | [Workday.md](./Workday.md) |
 | **PeopleSoft FSCM** | Covers File Layout/Component Interface load validation, AP voucher duplicate detection, and vendor document intake — designed for zero PeopleCode footprint via Component Interfaces, Integration Broker, and EIPs, preserving PUM upgrade safety. | [PeopleSoft_FSCM.md](./PeopleSoft_FSCM.md) |
 | **Oracle E-Business Suite (EBS)** | Covers Open Interface load validation, AP duplicate invoice detection, and iSupplier document intake — built on Open Interfaces, PL/SQL APIs, and Oracle Integration Cloud, avoiding Forms personalization and patching risk. | [Oracle_EBS.md](./Oracle_EBS.md) |
