@@ -1,6 +1,8 @@
 # PeopleSoft FSCM - AI Add-On 
 
----
+<p align="center">
+  <img src="assets/peoplesoft.png" alt="Banner" width="100%">
+</p>
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
 
