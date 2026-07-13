@@ -1,6 +1,6 @@
 # ERP-Specific AI Add-On 
 <p align="center">
-  <img src="assets/erp_banner.png" alt="ERPKit Banner" width="100%">
+  <img src="assets/erp_banner.png" alt="ERP Banner" width="100%">
 </p>
 
 A collection of ERP-specific LinkedIn content packages designed to introduce AI add-on solutions to enterprise ERP communities - respecting each platform's native architecture, terminology, and extensibility model.
