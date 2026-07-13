@@ -1,5 +1,7 @@
 # JD Edwards EnterpriseOne : AI Add-On 
-
+<p align="left">
+  <img src="assets/jdedward.png" alt="Banner" width="100%">
+</p>
 
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
