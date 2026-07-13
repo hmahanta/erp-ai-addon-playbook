@@ -1,6 +1,8 @@
 # Oracle Fusion Cloud ERP - AI Add-On 
 
----
+<p align="center">
+  <img src="assets/fusion.png" alt="Banner" width="100%">
+</p>
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
 
