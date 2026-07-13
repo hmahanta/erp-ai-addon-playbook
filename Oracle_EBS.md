@@ -1,7 +1,7 @@
 # Oracle E-Business Suite (EBS): AI Add-On 
 
 <p align="center">
-  <img src="assets/oracle-ebs.webp" alt="Banner" width="100%">
+  <img src="assets/oracle-ebs.png" alt="Banner" width="100%">
 </p>
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
