@@ -1,6 +1,8 @@
-# SAP S/4HANA - AI Add-On LinkedIn Content Package
+# SAP S/4HANA - AI Add-On 
 
----
+<p align="center">
+  <img src="assets/sap.png" alt="Banner" width="100%">
+</p>
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
 
