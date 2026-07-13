@@ -1,4 +1,4 @@
-# PeopleSoft FSCM - AI Add-On LinkedIn Content Package
+# PeopleSoft FSCM - AI Add-On 
 
 ---
 
