@@ -1,4 +1,4 @@
-# Oracle E-Business Suite (EBS): AI Add-On LinkedIn Content Package
+# Oracle E-Business Suite (EBS): AI Add-On 
 
 ---
 
