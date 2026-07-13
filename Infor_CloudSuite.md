@@ -1,5 +1,7 @@
 # Infor CloudSuite : AI Add-On 
-
+<p align="center">
+  <img src="assets/infor.png" alt="Banner" width="100%">
+</p>
 
 
 ## 1. Enterprise Challenges (Real, Commonly Reported)
