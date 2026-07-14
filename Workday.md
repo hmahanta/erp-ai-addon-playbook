@@ -41,12 +41,6 @@ Because Workday is delivered as a standardized SaaS tenant, organizations can't 
 
 All components integrate through Workday's standard REST/SOAP APIs, EIB, and Workday Extend - fully respecting Workday's standardized-tenant model and safe across Workday's update cycles.
 
----
-
-## 5. LinkedIn Content - Six Versions
-
-### A. Short LinkedIn Post (250 words)
-
 Teams running Workday Financial Management at scale tend to hit the same friction points: EIB loads that pass validation but still need worktag cleanup afterward, Spend Management exception queues full of near-duplicate supplier invoices, and supplier documents that need manual entry before they reach a supplier account.
 
 This isn't a shortcoming in Workday's design - it's the natural result of Workday's standardized-tenant SaaS model, which intentionally keeps the core consistent and pushes extension logic to REST/SOAP APIs and Workday Extend. The friction shows up in the layer around those interfaces: business-context validation, semantic duplicate detection, and document intelligence.
@@ -59,9 +53,6 @@ For Workday architects and finance ops leaders: how is your organization current
 
 #Workday #WorkdayFinancials #EIB #WorkdayExtend #AIinFinance #EnterpriseArchitecture
 
----
-
-### B. Long LinkedIn Article
 
 **Title: Extending Workday Financial Management Within Its Own Model - REST APIs, EIB, and Workday Extend**
 
