@@ -41,11 +41,6 @@ Many PeopleSoft instances have been running for over a decade with layered custo
 
 All components integrate through PeopleSoft's standard Component Interfaces, Integration Broker, and EIPs - no PeopleCode or Application Engine modification, fully safe across PUM image application.
 
----
-
-## 5. LinkedIn Content - Six Versions
-
-### A. Short LinkedIn Post (250 words)
 
 Anyone supporting a long-running PeopleSoft FSCM instance knows the pattern: File Layout and Component Interface loads that pass validation but still need ChartField cleanup, AP exception queues full of near-duplicate vouchers, and vendor documents that need manual entry before they reach a vendor record.
 
@@ -59,9 +54,6 @@ For PeopleSoft architects and finance ops leaders: how is your organization curr
 
 #PeopleSoft #PeopleSoftFSCM #IntegrationBroker #PUM #AIinFinance #EnterpriseArchitecture
 
----
-
-### B. Long LinkedIn Article
 
 **Title: Extending PeopleSoft FSCM Without Adding to Your Customization Debt**
 
