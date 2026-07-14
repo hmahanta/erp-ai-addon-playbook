@@ -41,11 +41,6 @@ Many EnterpriseOne instances have decades of custom Business Functions and UBEs 
 
 All components integrate through JDE's standard Orchestrator Studio and AIS Server REST APIs - no custom C Business Functions or core UBE modification, fully compatible with ESU application cycles.
 
----
-
-## 5. LinkedIn Content - Six Versions
-
-### A. Short LinkedIn Post (250 words)
 
 Anyone supporting a mature JD Edwards EnterpriseOne environment knows the pattern: Z-table uploads that pass table conversion but still need AAI cleanup, AP exception queues full of near-duplicate vouchers, and vendor documents that need manual entry into the address book.
 
@@ -58,10 +53,6 @@ The goal is to reduce the manual validation and exception-handling effort your A
 For JDE architects and finance ops leaders: how is your organization currently handling voucher duplicate detection and Z-table pre-load validation?
 
 #JDEdwards #EnterpriseOne #JDEOrchestrator #AIinFinance #EnterpriseArchitecture
-
----
-
-### B. Long LinkedIn Article
 
 **Title: Extending JD Edwards EnterpriseOne Without Deepening Your Customization Footprint**
 
